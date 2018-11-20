@@ -64,3 +64,47 @@
 	border: 10px solid #C0C0C0;
 	font-family: tahoma;
 }
+
+table{
+	font-family: lucida sans unicode, lucida grande, segoe ui;
+	width: 753px;
+	margin: 0 auto;
+}
+
+th{
+	background-color: #508abb;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+td{
+	color: #353535;
+	background-color: #20B2AA;
+	text-align: center;
+	font-size: 14px;
+}
+
+.null{
+	background-color: #A0A0A0;
+	font-style: italic;
+}
+
+.zero{
+	background-color: #F0E68C;
+	font-style: italic;
+}
+
+#image_frame{
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	bottom: 5px;
+	left: 0px;
+	background-color: #A0A0A0; 
+	border: 10px dotted #FFF8DC;
+}
+
+.image{
+	width: 247px;
+	height: 247px;
+}
